@@ -26,7 +26,7 @@ O programa avalia qual cidade vence para cada atributo escolhido, considerando q
    ```
 4. Execute o programa:
    ```bash
-   ./supertrunfo
+   ./CartasSuperTrunfo
    ```
 
 ### Windows
@@ -44,7 +44,7 @@ O programa avalia qual cidade vence para cada atributo escolhido, considerando q
    ```
 4. Execute o programa:
    ```
-   supertrunfo.exe
+   CartasSuperTrunfo.exe
    ```
 
 #### Usando Compilador do Visual Studio
